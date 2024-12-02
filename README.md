@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there! 👋 I'm AnkitXcoder
 
-<!--
-**AnkitXcoder/AnkitXcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 B.Tech CSE Student | Aspiring Software Developer
+- 🌱 Learning **Java** and improving my skills in **CSS** and **Javascript**
+- 💻 Regularly posting code and exploring open-source contributions
+- 🛠️ Passionate about problem-solving and building real-world projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- **Languages:** HTML, CSS, Java (learning)
+- **Tools:** Git, Visual Studio Code
+- **Platforms:** GitHub
+
+---
+
+## 🌟 Current Focus
+- Learning Java DSA and System Design
+- Creating beginner-friendly web projects
+- Contributing to open-source repositories
+
+---
+
+## 📊 GitHub Stats
+![AnkitXcoder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnkitXcoder&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitXcoder&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 📬 Connect with Me
+- 🌐 [LinkedIn](www.linkedin.com/in/ankit-kushwaha-coder)  
+- ✉️ ankitone02@gmail.com
+
+---
+
+> *"Stay curious, keep learning, and keep coding!"*
