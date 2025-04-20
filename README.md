@@ -11,11 +11,14 @@
 
 ## 👨‍💻 About Me
 
-I'm **Ankit Kushwaha**, a passionate and driven **B.Tech Computer Science Engineering Student** currently based in [Your City, e.g., Delhi], India. I'm actively honing my skills to become a proficient **Software Developer**.
+I'm **Ankit Kushwaha**, a passionate and driven **B.Tech Computer Science Engineering Student** currently based in [ Noida ], India. I'm actively honing my skills to become a proficient **Software Developer**.
 
-* 🌱 Currently diving deep into **Java**, focusing on **Data Structures & Algorithms (DSA)** and exploring concepts in **System Design**.
+* 🌱 Currently diving deep into -->
+* ** JAVA + DSA + System Design **
+* ** Servlet -- JDBC -- Hybernate -- Spring -- Spring Boot **
+* ** Data Scientist **
+* 
 * 💡 Enthusiastic about building practical applications and solving real-world problems using technology.
-* Mproving my foundational web development skills in **HTML, CSS, and JavaScript**.
 * 🔭 Exploring the world of **Open Source** and looking for opportunities to collaborate and contribute.
 * 🚀 Eager to learn new technologies and continuously grow as a developer.
 
@@ -23,26 +26,21 @@ I'm **Ankit Kushwaha**, a passionate and driven **B.Tech Computer Science Engine
 
 ## 🛠️ Tech Stack & Skills
 
-* **Languages:** Java, HTML5, CSS3, JavaScript
-* **Core Concepts:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP)
-* **Tools & Platforms:** Git, GitHub, Visual Studio Code
-* **Currently Learning:** System Design Principles, Advanced Java Concepts, [Mention another framework/tool you're exploring, e.g., Spring Boot, React]
+* **Languages:** ** Java ** ** Python **
+* **Core Concepts:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), CRUD , Spring , Spring Boot
+* **Tools & Platforms:** GitBash, GitHub, Eclipse, Vs Code, AnaConda, Jupyter notebook 
+* **Currently Learning:** -- See Repository
 
 ---
 
 ## 🚀 Projects Showcase
 
-* **[Project Name 1 - e.g., Basic Portfolio Website]**
-    * Description: A simple personal portfolio website built using HTML, CSS, and a touch of JavaScript. Showcases basic web layout and styling.
+* **[First Project - e.g., Basic E- Commerce Website]**
+    * Description: A simple E-Commerce website built using HTML, CSS, and a touch of JavaScript. Showcases basic web layout and styling and Effcets + Mixed product showing
     * Tech: `HTML`, `CSS`, `JavaScript`
-    * 🔗 [Link to Repository](YOUR_REPO_LINK_HERE) | 🔗 [Live Demo Link (if applicable)]()
-* **[Project Name 2 - e.g., Simple Java CLI App]**
-    * Description: A command-line application developed in Java to practice OOP concepts and basic algorithms. [Briefly mention what it does, e.g., manages tasks, calculates something].
-    * Tech: `Java`
-    * 🔗 [Link to Repository](YOUR_REPO_LINK_HERE)
-* *More projects coming soon!*
+    * 🔗 [Link to Repository](https://github.com/AnkitXcoder/My-Project) | 🔗 [Live Demo Link](https://ankitxcoder.github.io/My-Project/)
 
-*(**Note:** Replace the placeholders above with your actual projects. Even simple projects are great to showcase when you're starting!)*
+* *More projects coming soon!*
 
 ---
 
@@ -59,7 +57,4 @@ I'm **Ankit Kushwaha**, a passionate and driven **B.Tech Computer Science Engine
 I'm always open to connecting with fellow students, developers, and potential collaborators!
 
 * <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="20" height="20"/> &nbsp; [**LinkedIn:** Ankit Kushwaha](https://www.linkedin.com/in/ankit-kushwaha-coder/)  * <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" width="20" height="20"/> &nbsp; [**Email:** ankitone02@gmail.com](mailto:ankitone02@gmail.com)
-* * * ---
-
-> *"The best way to predict the future is to invent it." - Alan Kay*
-> *(Feel free to change the quote to something that resonates with you!)*
+  
